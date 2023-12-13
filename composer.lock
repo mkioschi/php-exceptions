@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "6c82ced232c0249ff5054287b3448455",
+    "content-hash": "3b91cd7c2d206433a38c029a1e4643a7",
     "packages": [
         {
             "name": "mkioschi/php-enums",
@@ -1791,7 +1791,7 @@
     "prefer-stable": false,
     "prefer-lowest": false,
     "platform": {
-        "php": ">=8.2"
+        "php": ">=8.3"
     },
     "platform-dev": [],
     "plugin-api-version": "2.2.0"

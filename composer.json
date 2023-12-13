@@ -10,7 +10,7 @@
     }
   ],
   "require": {
-    "php": ">=8.2",
+    "php": ">=8.3",
     "mkioschi/php-enums": "^1.0"
   },
   "require-dev": {
@@ -19,11 +19,6 @@
   "autoload": {
     "psr-4": {
       "Mkioschi\\": "src/"
-    }
-  },
-  "autoload-dev": {
-    "psr-4": {
-      "Mkioschi\\Tests\\": "tests/"
     }
   }
 }
